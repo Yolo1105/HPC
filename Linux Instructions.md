@@ -66,10 +66,17 @@ gedit helloworld.cpp
 
 **cpp needs to compile first and then execute**
 
-g++ - compiler
+**g++ - compiler**
 
-g++ helloworld.cpp -o helloworld (-o output executable file, just the same as cpp file)
+**g++ helloworld.cpp -o helloworld (-o output executable file, just the same as cpp file)**
 
 ./helloworld
 
-vi - enter the file and edit
+**vi - enter the file and edit**
+
+**control+z/control+c/control+x**
+
+**squeue -u**
+**Top**
+
+**seff ID**
