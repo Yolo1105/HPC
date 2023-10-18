@@ -13,7 +13,7 @@ $ vi makefile
 esc :wq
 
 // Load the module to create the batch
-$ module load Intel/Openmpi/intel/4.0.5
+$ module load openmpi/intel/4.0.5
 
 // Gengerate a 3dmhd.exe file
 make
